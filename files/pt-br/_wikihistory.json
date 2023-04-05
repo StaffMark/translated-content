@@ -9564,10 +9564,6 @@
     "modified": "2020-10-16T00:11:07.868Z",
     "contributors": ["ricardo.passos.cr", "vmardss"]
   },
-  "Web/JavaScript/Reference/Global_Objects/String/Trim": {
-    "modified": "2020-10-16T00:00:03.933Z",
-    "contributors": ["ricardo.passos.cr", "coloringa", "GlauberF", "Webysther"]
-  },
   "Web/JavaScript/Reference/Global_Objects/String/anchor": {
     "modified": "2020-10-15T22:35:00.314Z",
     "contributors": ["ricardo.passos.cr"]
@@ -9813,6 +9809,10 @@
   "Web/JavaScript/Reference/Global_Objects/String/toUpperCase": {
     "modified": "2020-10-15T23:55:31.039Z",
     "contributors": ["ricardo.passos.cr", "PTPAC", "marcelobonatto"]
+  },
+  "Web/JavaScript/Reference/Global_Objects/String/trim": {
+    "modified": "2020-10-16T00:00:03.933Z",
+    "contributors": ["ricardo.passos.cr", "coloringa", "GlauberF", "Webysther"]
   },
   "Web/JavaScript/Reference/Global_Objects/String/trimEnd": {
     "modified": "2020-10-16T00:03:20.779Z",
