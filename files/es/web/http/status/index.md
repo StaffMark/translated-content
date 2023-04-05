@@ -38,7 +38,7 @@ Los códigos de estado se definen en la sección 10 de[RFC 2616](https://tools.i
 - {{HTTPStatus(200, "200 OK")}}
   - : La solicitud ha tenido éxito. El significado de un éxito varía dependiendo del método HTTP:
 - {{HTTPStatus(201, "201 Created")}}
-  - : La solicitud ha tenido éxito y se ha creado un nuevo recurso como resultado de ello. Ésta es típicamente la respuesta enviada después de una petición PUT.
+  - : La solicitud ha tenido éxito y se ha creado un nuevo recurso como resultado de ello. Ésta es típicamente la respuesta enviada después de una petición POST.
 - {{HTTPStatus(202, "202 Accepted")}}
   - : La solicitud se ha recibido, pero aún no se ha actuado. Es una petición "sin compromiso", lo que significa que no hay manera en HTTP que permite enviar una respuesta asíncrona que indique el resultado del procesamiento de la solicitud. Está pensado para los casos en que otro proceso o servidor maneja la solicitud, o para el procesamiento por lotes.
 - {{HTTPStatus(203, "203 Non-Authoritative Information")}}
