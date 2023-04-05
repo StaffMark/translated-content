@@ -748,6 +748,7 @@
 /ko/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler	/ko/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy
 /ko/docs/Web/JavaScript/Reference/Global_Objects/Proxy/handler/apply	/ko/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/apply
 /ko/docs/Web/JavaScript/Reference/Global_Objects/TypeError/prototype	/ko/docs/Web/JavaScript/Reference/Global_Objects/TypeError
+/ko/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/name	/ko/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Function/name
 /ko/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly	/ko/docs/WebAssembly/JavaScript_interface
 /ko/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/CompileError	/ko/docs/WebAssembly/JavaScript_interface/CompileError
 /ko/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Global	/ko/docs/WebAssembly/JavaScript_interface/Global

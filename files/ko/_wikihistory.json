@@ -9725,10 +9725,6 @@
     "modified": "2020-10-15T21:47:35.796Z",
     "contributors": ["alattalatta", "Netaras"]
   },
-  "Web/JavaScript/Reference/Global_Objects/TypedArray/name": {
-    "modified": "2020-10-15T21:47:34.390Z",
-    "contributors": ["alattalatta", "Netaras"]
-  },
   "Web/JavaScript/Reference/Global_Objects/TypedArray/of": {
     "modified": "2020-10-15T22:03:56.631Z",
     "contributors": ["limkukhyun"]
@@ -11223,6 +11219,10 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/Date": {
     "modified": "2020-10-15T21:34:44.080Z",
     "contributors": ["alattalatta", "Cho.Eun", "ByungChangCha", "teoli"]
+  },
+  "conflicting/Web/JavaScript/Reference/Global_Objects/Function/name": {
+    "modified": "2020-10-15T21:47:34.390Z",
+    "contributors": ["alattalatta", "Netaras"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/InternalError": {
     "modified": "2019-03-23T22:28:33.047Z",
